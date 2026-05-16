@@ -6,8 +6,8 @@
   **Self-hosted incident management. API-first. No SaaS. No noise.**
 
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
-[![Go](https://img.shields.io/badge/Go-1.22-00ADD8?logo=go)](https://golang.org)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-336791?logo=postgresql)](https://postgresql.org)
+[![Go](https://img.shields.io/badge/Go-1.26-00ADD8?logo=go)](https://golang.org)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18-336791?logo=postgresql)](https://postgresql.org)
 [![Status](https://img.shields.io/badge/Status-In_Development-orange)]()
 [![GitLab](https://img.shields.io/badge/Code%20on-GitLab-FC6D26?logo=gitlab)](https://gitlab.com/dispatcher-api/dispatcher)
 
@@ -211,7 +211,7 @@ flowchart LR
 ### Prerequisites
 
 - Docker & Docker Compose
-- Go 1.22+ (for local development)
+- Go 1.26+ (for local development)
 
 ### Run with Docker Compose
 
