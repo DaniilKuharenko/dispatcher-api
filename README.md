@@ -236,6 +236,9 @@ Docker Compose setup is in progress — star the repo to get notified when it sh
 | `WS` | `/ws` | WebSocket connection for live updates |
 
 ---
+**Beta Program**
+>If this sounds useful, I'd love 2 minutes of your time: **[Google Form](https://forms.gle/QABzL9de1jrZsUdf8)**
+---
 
 ## License
 
