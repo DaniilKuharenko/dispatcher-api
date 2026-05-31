@@ -216,10 +216,8 @@ flowchart LR
 ### Run with Docker Compose
 
 ```
-*Docker Compose setup is in progress — star the repo to get notified when it ships*
+Docker Compose setup is in progress — star the repo to get notified when it ships
 ```
-
-> Full setup guide and Docker Compose file are in the **[GitLab repo](https://gitlab.com/dispatcher-api/dispatcher)**.
 
 ---
 
