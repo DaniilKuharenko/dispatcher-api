@@ -243,8 +243,6 @@ flowchart LR
 
 The first **10 beta testers** will receive **3 months of free access** to the full API + UI after MVP launch.
 
-To apply: *[form link — coming soon]*
-
 ---
 
 ## License
