@@ -68,7 +68,7 @@ flowchart LR
 ## 📦 Where is the code?
 
 > **This GitHub repo is the project's public page and mirror.**  
-> All development happens on **[GitLab →](https://gitlab.com/YOUR_USERNAME/dispatcher)**
+> All development happens on **[GitLab →](https://gitlab.com/dispatcher-api/dispatcher)**
 
 | What | Where |
 |---|---|
@@ -216,7 +216,7 @@ flowchart LR
 ### Run with Docker Compose
 
 ```
-*coming soon*
+*Docker Compose setup is in progress — star the repo to get notified when it ships*
 ```
 
 > Full setup guide and Docker Compose file are in the **[GitLab repo](https://gitlab.com/dispatcher-api/dispatcher)**.
@@ -236,12 +236,6 @@ flowchart LR
 | `POST` | `/v1/schedules` | Create a shift |
 | `GET` | `/v1/reports/sla` | SLA and MTTA report data |
 | `WS` | `/ws` | WebSocket connection for live updates |
-
----
-
-## 🚀 Beta Program
-
-The first **10 beta testers** will receive **3 months of free access** to the full API + UI after MVP launch.
 
 ---
 
@@ -267,7 +261,7 @@ Issues, ideas, and PRs are welcome — **[open them on GitLab](https://gitlab.co
 
 <div align="center">
 
-Built by **Oshan** · Solo developer · Open-source believer
+Built by **Daniil** · Solo developer · Open-source believer
 
 *Let's build the best self-hosted incident management. Together.* 🚀
 
