@@ -262,7 +262,7 @@ Issues, ideas, and PRs are welcome — **[open them on GitLab](https://gitlab.co
 
 <div align="center">
 
-Built by **Daniil** · Solo developer · Open-source believer
+Built by **Daniil Kukharenko** · Solo developer · Open-source believer
 
 *Let's build the best self-hosted incident management. Together.* 🚀
 
