@@ -75,7 +75,7 @@ flowchart LR
 | ⭐ Stars & visibility | **GitHub** (you're here) |
 | 🔧 Source code | **[GitLab](https://gitlab.com/dispatcher-api/dispatcher)** |
 | 🐛 Issues & roadmap | **[GitLab Issues](https://gitlab.com/dispatcher-api/dispatcher/-/boards)** |
-| 💬 Community | **[Discord]** |
+| 💬 Community | **[Discord](https://discord.gg/XC9Qdxr6Kh)** |
 
 ---
 
@@ -255,8 +255,8 @@ Dispatcher core is licensed under **[AGPL-3.0](LICENSE)**.
 Issues, ideas, and PRs are welcome — **[open them on GitLab](https://gitlab.com/dispatcher-api/dispatcher/-/boards)**.
 
 - **Bugs** → [GitLab Issues](https://gitlab.com/dispatcher-api/dispatcher/-/boards)
-- **Feature ideas** → [Discord] → `#💡-feature-requests`
-- **Questions** → Discord `#❓-help`
+- **Feature ideas** → [Discord](https://discord.gg/XC9Qdxr6Kh) → `#💡-feature-requests`
+- **Questions** → [Discord](https://discord.gg/XC9Qdxr6Kh) `#❓-help`
 
 ---
 
